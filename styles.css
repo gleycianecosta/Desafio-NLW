@@ -108,6 +108,11 @@ section ul li:hover {
      border-color: lpx solid #443E54 ;
 }
 
+.social-list img {
+    width: 32px;
+    height: 32px;
+}
+
 /*animation*/
 
 header div {
