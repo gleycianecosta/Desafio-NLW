@@ -5,7 +5,7 @@
 
 Projeto contruído no evento Next Level Week da Rocketseat. 
 
-[Clique aqui para acessar!](https://gleycianecosta.github.io/Desafio-extra/)
+[Clique aqui para acessar!](https://gleycianecosta.github.io/Desafio-NLW/)
 
 ## Tecnologias
     - HTML
